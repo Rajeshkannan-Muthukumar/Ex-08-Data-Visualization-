@@ -132,7 +132,7 @@ plt.boxplot(x="Sales",data=df)
 plt.show()
 ```
 
-# OUTPUT
+## OUTPUT
 
 ![1](https://user-images.githubusercontent.com/93901857/198822746-d17cc32c-23f7-4b2d-8041-1596b1590b76.jpg)
 ![2](https://user-images.githubusercontent.com/93901857/198822751-8b533602-6dce-47e1-af2b-5bfdedd25d46.jpg)
@@ -148,5 +148,5 @@ plt.show()
 ![12](https://user-images.githubusercontent.com/93901857/198822794-abd97f63-7b0c-4bae-bd25-7ef39e500d44.jpg)
 ![13](https://user-images.githubusercontent.com/93901857/198822795-bf9d192d-5327-479b-b627-a24f55ba031e.jpg)
 
-#### RESULT:
+## RESULT:
 Hence, Data Visualization is applied on the complex dataset using libraries like Seaborn and Matplotlib successfully and the data is saved to file.
